@@ -27,4 +27,5 @@ First one to get the full list of Oompa Loompas by paginating the data.
 Second one to get one specific Oompa Loompa by it's id.
 
 GET -> https://2q2woep105.execute-api.eu-west-1.amazonaws.com/napptilus/oompa-loompas?page=1
+
 GET -> https://2q2woep105.execute-api.eu-west-1.amazonaws.com/napptilus/oompa-loompas/13

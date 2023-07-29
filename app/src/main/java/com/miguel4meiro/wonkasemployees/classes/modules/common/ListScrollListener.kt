@@ -30,7 +30,7 @@ abstract class ListScrollListener(
 
     fun resetState() {
         currentPage = 1
-        isLoading = false
+        isLoading = true
     }
 
     abstract fun onLoadMore()
