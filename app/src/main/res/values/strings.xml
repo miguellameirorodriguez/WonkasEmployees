@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Wonka Crew</string>
+
+    <!-- list screen -->
+    <string name="list_title">Wonka\'s crew</string>
+    <string name="list_total">Total</string>
+    <string name="list_filter">Filter Employees</string>
+    <string name="list_profession">Profession</string>
+
+    <!-- filters names -->
+    <string name="filter_everyone">Everyone</string>
+    <string name="filter_gender">Gender</string>
+    <string name="filter_profession">Profession</string>
+    <string name="filter_apply">Apply</string>
+    <string name="filter_reset">Reset</string>
+    <string name="filter_select">Select</string>
+
+        <!-- gender filters -->
+        <string name="gender_male">Male</string>
+        <string name="gender_female">Female</string>
+
+        <!-- profession filters -->
+        <string name="profession_developer">Developer</string>
+        <string name="profession_metalworker">Metalworker</string>
+        <string name="profession_gemcutter">Gemcutter</string>
+        <string name="profession_medic">Medic</string>
+        <string name="profession_brewer">Brewer</string>
+
+    <!-- detail screen -->
+    <string name="detail_title">Loompa information</string>
+    <string name="detail_age">Age</string>
+    <string name="detail_height">Height</string>
+    <string name="detail_cm">%d cm</string>
+    <string name="detail_food">Food</string>
+    <string name="detail_color">Color</string>
+    <string name="detail_quote">Quote</string>
+    <string name="detail_song">Song</string>
+
+</resources>

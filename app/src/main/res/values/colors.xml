@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#673AB7</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- common colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0081B4</color>
+    <color name="pink">#FBA1B7</color>
+    <color name="green">#0DB85A</color>
+    <color name="gray">#7E7E7E</color>
+
+    <!-- text colors -->
+    <color name="text_gray">#7E7E7E</color>
+
+    <!-- background colors -->
+    <color name="background">#FFFFFF</color>
+    <color name="card_item_background">#DCE5DB</color>
+    <color name="filter_background">#7E7E7E</color>
+
+</resources>
